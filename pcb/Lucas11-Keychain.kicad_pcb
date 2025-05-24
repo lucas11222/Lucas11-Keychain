@@ -1626,6 +1626,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7e20438b-3eee-4452-9ae2-9e7c53429190")
 			(effects
 				(font
@@ -1772,8 +1773,8 @@
 		(uuid "0b7cc1dd-eef6-4323-830b-1f9dd3ff14c3")
 	)
 	(gr_circle
-		(center 14.2875 30.95625)
-		(end 14.2875 32.146875)
+		(center 88.10625 38.1)
+		(end 88.10625 39.290625)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -1796,7 +1797,7 @@
 		)
 	)
 	(gr_text "Hola soy Lucas Altamirano y me encanta los PCBs, Programacion y 3D.\nContactame en altamiranolucas2013@gmail.com .\nVisita lucas11.dev :)"
-		(at 69.05625 19.05 0)
+		(at 90.4875 19.05 0)
 		(layer "B.SilkS")
 		(uuid "76efcae0-9240-4eb3-b046-2ec90bc45ed8")
 		(effects
